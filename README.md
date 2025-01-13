@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itzNotreallY-UwU
-- 👀 I’m interested in Programming, Networking.
+- 👀 I’m interested in Programming, Networking, Artificial Intelligence, LLM.
 - 🌱 I’m currently learning programming language C++, html,css,js, java, python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
